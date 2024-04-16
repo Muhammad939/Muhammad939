@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Muhammad939
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Fullstack Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on Github
+- 📫 How to reach me I Do Not Know
+- ⚡ Fun fact: The first computer virus was created in 1986
 
 <!---
 Muhammad939/Muhammad939 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
